@@ -1,0 +1,32 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+h1{
+font-size: 60px;
+font-weight:700;
+color: #707070;
+}
+
+.bgrosado{
+background-color: #E83E8C ;    
+}
+
+.bgceleste{
+background-color:#17A2B8 ;    
+}
+
+.icon{
+display: inline-block;
+color: #FFFFFF;
+font-size: 80px;
+
+}
+
+.iconos p{
+display: inline-block;
+font-size: 40px; 
+font-weight: 700;
+color: #FFFFFF;
+
+}
+
